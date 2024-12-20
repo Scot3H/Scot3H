@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! 👋 I'm Scott!
 
-<!--
-**Scot3H/Scot3H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for Miami University as an Application Software Developer
+- 🌱 I’m currently refining my PHP, SQL, Perl, Python, and C# skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Here are some of the technologies I work with:
+
+- Languages: PHP, Javascript, Perl, Python, C#, SQL
+- Frameworks: Laravel
+- Tools: Git, Docker, Kubernetes
+
+## GitHub Stats
+
+![Scot3H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scot3H&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/scott-t-hutchins)
